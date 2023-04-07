@@ -6,6 +6,7 @@ This website provides the user with access to sensitive data the ability to rand
 
 ## Deployment
 
+Link: https://s-tovar.github.io/password-generator/
 
 ## Installation
 
